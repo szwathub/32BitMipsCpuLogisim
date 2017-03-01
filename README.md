@@ -2,4 +2,4 @@
 A 32-bit MIPS instruction set CPU's design and realization based on Logisim Platform.
 
 ### 数据通路表
-![table_all-1](https://cloud.githubusercontent.com/assets/8684553/23412465/9375b658-fe10-11e6-92fb-a94cfabcdab4.jpg)![table_all-2](https://cloud.githubusercontent.com/assets/8684553/23412471/96004f3c-fe10-11e6-8e36-8bd9954dab1c.jpg)
+![table_all-1](https://cloud.githubusercontent.com/assets/8684553/23412995/4db1aa4e-fe12-11e6-9b05-ca44c6fc9406.jpg)![table_all-2](https://cloud.githubusercontent.com/assets/8684553/23412992/4d7742e6-fe12-11e6-9208-f8f42b1ed87b.jpg)
