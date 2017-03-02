@@ -1,0 +1,29 @@
+{
+    "output": null,
+    "title": null,
+    "description": null,
+    "extension": null,
+
+    "plugins": ["gtoc", "katex"],
+
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size": 2
+        }
+    },
+
+    "pdf": {
+        "toc": true,
+        "fontSize": 10,
+        "pageNumbers": false,
+        "paperSize": "a4",
+        "margin": {
+            "right": 60,
+            "left": 60,
+            "top": 36,
+            "bottom": 36
+        }
+    }
+}
